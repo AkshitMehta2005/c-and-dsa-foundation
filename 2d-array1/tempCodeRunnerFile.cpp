@@ -1,0 +1,1 @@
+ cout << "array will be" << endl;
